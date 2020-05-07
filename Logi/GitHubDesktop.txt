@@ -1,4 +1,4 @@
-Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\C\Logi"
+Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\C\TEMPs"
 Stop-Transcript
 how to add autorun comand in terminal when open VSC
 
