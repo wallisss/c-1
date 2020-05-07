@@ -1,6 +1,10 @@
 ### https://youtu.be/Bz4MxDeEM6k  My learn plan
 C Programming All-in-One Timestamps
 
+C Programming All-in-One Timestamps
+
+C Programming All-in-One Timestamps
+
 00:00:00 - Intro to C
 00:05:43 - Installing GCC
 00:11:07 - Hello World
