@@ -2,10 +2,15 @@
 C Programming All-in-One Timestamps
 
 00:00:00 - Intro to C
+
 00:05:43 - Installing GCC
+
 00:11:07 - Hello World
+
 00:18:19 - How a C Program Works - 1
+
 00:25:34 - How a C Program Works - 2
+
 00:30:49 - Intro to UNIX-Linux 1
 00:37:05 - Intro to UNIX-Linux 2
 00:43:35 - Intro to UNIX-Linux 3
