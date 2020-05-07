@@ -2,3 +2,5 @@
 # somefolder/*
 PowerShell*.txt
 TEMPs/*
+#echo 'alias st="Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\C\TEMPs"' >> ~/.bashrc
+#echo 'alias sf="Stop-Transcript"' >> ~/.bashrc
