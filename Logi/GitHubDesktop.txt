@@ -1,0 +1,63 @@
+Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\C\Logi"
+Stop-Transcript
+how to add autorun comand in terminal when open VSC
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Document</title> 
+</head>
+<body>
+    <h1>Git status table</h1>
+    <h2>
+        <pre>
+        red(untracked)		        green(unmodified)	yellow(modified)	blue(staged)cd .idea
+    		|				|-----edit the file -->	|		    |
+    		|--(add .)the files  > 		|			|		    |
+        	|				|			|--stage the file ->|
+    		|<-remove (rm --cached file)--  |			|		    |
+                |				|<-----commit	--------|                   |
+        </pre>
+    </h2>
+    <p>
+        new change in file index.html 
+
+        @@@    4(5)6-77 changes @@@ 
+    </p>
+
+</body>
+</html>
+zaļš-izmainīts fails,bet nav izsekoto sarakstā
+
+create branch fichas GHD(GitHubDesktop)
+made changes in VSC
+create pull reguest in GitHubDesktop
+open github.com to Compare changes
+GH Create pull reguest>>write note>>merge pull reguest>>anote and confirm merge>>GHD fetch origina
+
+GHD creat new branch meeeting>>VSC improve index.html>>GHD commit and coment>>GHD publish>>GH compare and pull request>>
+>>Create a new pull request by comparing changes across two branche>>	wallisss wants to merge 1 commit into master from meeting>>merge pull request>>confirm merge
+
+git clone git@github.com:wallisss/glo.git	//(ssh clone)
+notepad++ . 	//open all project files
+edit style.css background color
+git init
+git add .
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git commit -m "change collor to blue"
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git push
+
+
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git checkout -b bg-pink	//creat new branch
+edit style.css to pink
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git add style.css
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git commit -m "edit style.css to pink"
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git push --set-upstream origin bg-pink 	//update remote repo bg-pink
+GH >>code >>compare&pull request>>creat pull request>>Comparing changes>>
+>>view pull request>>merge pull reguest>>confirm merge
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git pull	//refresh local repo
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git branch --delete bg-pink
+PS H:\txt\it-un-tehnika\CPP\glo2\glo> git branch
+
+

@@ -1,0 +1,240 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200506162847
+Username: LEV-110\Man
+RunAs User: LEV-110\Man
+Configuration Name: 
+Machine: LEV-110 (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 13496
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is H:\txt\it-un-tehnika\CPP\LogFiles\PowerShell_transcript.LEV-110.X7b5F3wP.20200506162847.txt
+PS H:\txt\it-un-tehnika\CPP\C> gcc hello.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Hello C World!
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Hello C World!
+PS H:\txt\it-un-tehnika\CPP\C> gcc hello.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Hello C World!9001
+PS H:\txt\it-un-tehnika\CPP\C> gcc hello.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+9001
+PS H:\txt\it-un-tehnika\CPP\C> git init
+
+PS H:\txt\it-un-tehnika\CPP\C> git add.
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "first commit"
+
+PS H:\txt\it-un-tehnika\CPP\C> git clone git@github.com:wallisss/c-1.git
+
+PS H:\txt\it-un-tehnika\CPP\C> git remote add origin git@github.com:wallisss/c-1.git
+
+PS H:\txt\it-un-tehnika\CPP\C> git push -u origin master
+
+PS H:\txt\it-un-tehnika\CPP\C> ls
+
+
+    Directory: H:\txt\it-un-tehnika\CPP\C
+
+
+Mode                LastWriteTime         Length Name
+----                -------------         ------ ----
+d-----       06.05.2020     16:32                c-1
+-a----       06.05.2020     16:30          56154 a.exe
+-a----       06.05.2020     16:30            135 hello.c
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc hello.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc hello.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc hello.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc hello.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc hello.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> git pull
+
+PS H:\txt\it-un-tehnika\CPP\C> git push --set-upstream origi master
+
+PS H:\txt\it-un-tehnika\CPP\C> cls
+PS H:\txt\it-un-tehnika\CPP\C> gcc 1-03-00.c
+1-03-00.c: In function 'main':
+1-03-00.c:9:20: error: 'x' undeclared (first use in this function)
+    9 |     printf("%i \n",x);
+      |                    ^
+1-03-00.c:9:20: note: each undeclared identifier is reported only once for each function it appears in
+PS H:\txt\it-un-tehnika\CPP\C> gcc 1-03-00.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+11
+Hello Carry Caleb World! 11
+PS H:\txt\it-un-tehnika\CPP\C> gcc 1-03-00.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+11
+Hello Carry Caleb World!
+11
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc 1-03-00.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc 1-03-00.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc 1-03-00.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Radius: 1234
+PS H:\txt\it-un-tehnika\CPP\C> gcc 1-03-00.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Radius: 1111
+PS H:\txt\it-un-tehnika\CPP\C> gcc 1-03-00.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Radius: 11
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> notepad++ .gitignore
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "add .gitignore
+
+"
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+nothing to commit, working tree clean
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> cls
+PS H:\txt\it-un-tehnika\CPP\C> git add /
+fatal: /: '/' is outside repository at 'H:/txt/it-un-tehnika/CPP/C'
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "add README.md and rename core file to CC1-03.c (time of example from video)"
+[master ffdd2a8] add README.md and rename core file to CC1-03.c (time of example from video)
+ 2 files changed, 1 insertion(+)
+ rename 1-03-00.c => CC1-03.c (100%)
+ create mode 100644 README.md
+PS H:\txt\it-un-tehnika\CPP\C> git push
+Counting objects: 100% (4/4), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (3/3), 450 bytes | 150.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To github.com:wallisss/c-1.git
+   3081490..ffdd2a8  master -> master
+PS H:\txt\it-un-tehnika\CPP\C> gcc cc1-09.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Radius: 0.000000
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Radius: 0.000000
+PS H:\txt\it-un-tehnika\CPP\C> gcc cc1-09.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Radius: 12.566360
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Radius: 380.132390
+PS H:\txt\it-un-tehnika\CPP\C> gcc cc1-09.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+The area of circle with radius 2 is : 12.566360
+PS H:\txt\it-un-tehnika\CPP\C> gcc cc1-09.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc cc1-09.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc cc1-09.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc cc1-09.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> end 1:14:46
+At line:1 char:4
++ end 1:14:46
++    ~
+Missing statement block after 'end'.
+
+At line:1 char:5
++ end 1:14:46
++     ~~~~~~~
+Unexpected token '1:14:46' in expression or statement.
+At line:1 char:4
++ end 1:14:46
++    ~
+Missing statement block after 'end'.
+
+At line:1 char:5
++ end 1:14:46
++     ~~~~~~~
+Unexpected token '1:14:46' in expression or statement.
+    + CategoryInfo          : ParserError: (:) [], ParentContainsErrorRecordException
+    + FullyQualifiedErrorId : MissingNamedStatementBlock
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "01:09:54 - C Basics Part 4- CC1-09.c (time of example from video)"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
