@@ -1,10 +1,6 @@
 ### https://youtu.be/Bz4MxDeEM6k  My learn plan
 C Programming All-in-One Timestamps
-
-C Programming All-in-One Timestamps
-
-C Programming All-in-One Timestamps
-
+"
 00:00:00 - Intro to C
 00:05:43 - Installing GCC
 00:11:07 - Hello World
@@ -105,3 +101,4 @@ C Programming All-in-One Timestamps
 10:01:36 - Working with Structs 1
 10:05:58 - Printing Structs, Struct Arrays and Pointers
 10:09:43 - Conclusion
+"
