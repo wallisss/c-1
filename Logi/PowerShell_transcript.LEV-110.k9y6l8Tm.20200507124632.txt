@@ -44,3 +44,18 @@ PS H:\txt\it-un-tehnika\CPP\C> git status
 
 PS H:\txt\it-un-tehnika\CPP\C> git status
 
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m " update"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+PS H:\txt\it-un-tehnika\CPP\C> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20200507125512
+**********************
