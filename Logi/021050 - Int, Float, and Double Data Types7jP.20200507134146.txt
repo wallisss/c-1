@@ -1,0 +1,122 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200507134146
+Username: LEV-110\Man
+RunAs User: LEV-110\Man
+Configuration Name: 
+Machine: LEV-110 (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 15576
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is H:\txt\it-un-tehnika\CPP\C\TEMPs\PowerShell_transcript.LEV-110.eqcOr7jP.20200507134146.txt
+PS H:\txt\it-un-tehnika\CPP\C> git g
+
+PS H:\txt\it-un-tehnika\CPP\C> git gc
+
+PS H:\txt\it-un-tehnika\CPP\C> git st
+
+PS H:\txt\it-un-tehnika\CPP\C> git st
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc ComplementMachine.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc ComplementMachine.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc ComplementMachine.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> git st
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "01:22:49 - C Basics Part 6 exercise 1"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc ComplementMachine.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc ComplementMachine.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "01:22:49 - C Basics Part 6 exercise 2"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> git pull
+
+PS H:\txt\it-un-tehnika\CPP\C> git st
+
+PS H:\txt\it-un-tehnika\CPP\C> pause 10
+PS H:\txt\it-un-tehnika\CPP\C> git pull
+
+PS H:\txt\it-un-tehnika\CPP\C> git rm /?
+
+PS H:\txt\it-un-tehnika\CPP\C> git rm /h?
+
+PS H:\txt\it-un-tehnika\CPP\C> git rm /help
+
+PS H:\txt\it-un-tehnika\CPP\C> rm /help
+rm : Cannot find path 'H:\help' because it does not exist.
+At line:1 char:1
++ rm /help
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (H:\help:String) [Remove-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.RemoveItemCommand
+rm : Cannot find path 'H:\help' because it does not exist.
+At line:1 char:1
++ rm /help
++ ~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (H:\help:String) [Remove-Item], ItemNotFoundException
+    + FullyQualifiedErrorId : PathNotFound,Microsoft.PowerShell.Commands.RemoveItemCommand
+
+PS H:\txt\it-un-tehnika\CPP\C> git remove readme.md
+
+PS H:\txt\it-un-tehnika\CPP\C> git st
+
+PS H:\txt\it-un-tehnika\CPP\C> git rm readme.md
+
+PS H:\txt\it-un-tehnika\CPP\C> git rm README.md
+
+PS H:\txt\it-un-tehnika\CPP\C> gitt add .
+gitt : The term 'gitt' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ gitt add .
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (gitt:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+gitt : The term 'gitt' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of
+the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ gitt add .
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (gitt:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git st
+
+PS H:\txt\it-un-tehnika\CPP\C> git rm README.md
+
+PS H:\txt\it-un-tehnika\CPP\C> git rm -f README.md
+
+PS H:\txt\it-un-tehnika\CPP\C> git pull
+
