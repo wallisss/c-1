@@ -3,7 +3,7 @@
 int main()
 {
         printf("how many dogs do you have?: ");
-        //int double float
+        //int double float 
         double dogs;
 
         scanf("%lf", &dogs);/*scanf %lf(le,lg)>>double write in mem adres &dogs(It needs to change the variable.

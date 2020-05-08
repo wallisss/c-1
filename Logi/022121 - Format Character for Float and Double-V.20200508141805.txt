@@ -1,0 +1,102 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200508141805
+Username: LEV-110\Man
+RunAs User: LEV-110\Man
+Configuration Name: 
+Machine: LEV-110 (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 10164
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is H:\txt\it-un-tehnika\CPP\C\TEMPs\PowerShell_transcript.LEV-110.OdkWIx+V.20200508141805.txt
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+int:25000 double:1111.111100  float:1111.111084
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+      |                                                 ^
+FormCharForFloatAndDouble.c:4:1: note: to match this '{'
+    4 | {
+      | ^
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+:25000.000000 :5e :25000
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+/25000.000000:25000.000000 :5e :25000
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+25000.000000:25000.000000 :5e :25000
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+%f:25000.000000 :5e :25000
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+ %g:25000
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+ %g:25000
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+ %g:2.5e+006
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+ Computer decides%g:2.5e+006
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+ Computer decides%g: 2.5e+006
+PS H:\txt\it-un-tehnika\CPP\C> g++ FormCharForFloatAndDouble.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+ Computer decides%g: 65300
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+ Computer decides%g: 2.2e+007
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+ Computer decides%g: 1.11111e+007
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "02:21:21 - Format Character for Float and Double"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> time
+time : The term 'time' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the 
+spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ time
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (time:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+time : The term 'time' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or i
+f a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ time
++ ~~~~
+    + CategoryInfo          : ObjectNotFound: (time:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+piektdiena, 2020. gada 8. maijs 15:05:11
+
+
