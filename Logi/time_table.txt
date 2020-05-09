@@ -39,7 +39,7 @@ DESIGN in progres <br />
 03:16:37 - Increment and Decrement Operators<br />
 03:22:12 - Assignment Operators<br />
 03:27:23 - Operator Precedence<br />
-03:32:27 - Strongly Types vs Loosely Typed Languages<br />
+03:32:27 - Strongly  Types vs Loosely Typed Languages<br />
 03:38:58 - Type Casting<br />
 03:43:09 - Implicit Type Promotion<br />
 03:48:21 - How to Use the Type Cast Operator<br />
