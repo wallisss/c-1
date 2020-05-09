@@ -1,0 +1,136 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200508153537
+Username: LEV-110\Man
+RunAs User: LEV-110\Man
+Configuration Name: 
+Machine: LEV-110 (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 12652
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is H:\txt\it-un-tehnika\CPP\C\TEMPs\PowerShell_transcript.LEV-110.m9di9Q7G.20200508153537.txt
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git status
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   FormCharForFloatAndDouble.c
+        new file:   Logi/022121 - Format Character for Float and Double-V.20200508141805.txt
+        new file:   Logi/ciki-may.txt
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "add ciki-may"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+piektdiena, 2020. gada 8. maijs 15:37:51
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char.c
+
+PS H:\txt\it-un-tehnika\CPP\C> g++ Char.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char-v2.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char-v2.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char-v2.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Character is :M
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char-v2.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Character is :
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Character is :
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+Character is :z
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char-v2.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Char-v2.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a.exe
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "02:36:15 - ASCII and Int Conversion"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+piektdiena, 2020. gada 8. maijs 16:19:43
+
+
+PS H:\txt\it-un-tehnika\CPP\C> g++ bool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc bool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> g++ bool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc bool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "02:43:17 - _Bool Data Type"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+piektdiena, 2020. gada 8. maijs 16:29:17
+
+
+PS H:\txt\it-un-tehnika\CPP\C> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20200508162922
+**********************

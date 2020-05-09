@@ -1,3 +1,5 @@
+Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\C\TEMPs"
+Stop-Transcript
 ### https://youtu.be/Bz4MxDeEM6k  My learn plan
 C Programming All-in-One Timestamps
 DESIGN in progres <br />
