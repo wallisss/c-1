@@ -1,0 +1,224 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200509153444
+Username: LEV-110\Man
+RunAs User: LEV-110\Man
+Configuration Name: 
+Machine: LEV-110 (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 7752
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is H:\txt\it-un-tehnika\CPP\C\TEMPs\PowerShell_transcript.LEV-110.9O25jnMV.20200509153444.txt
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+sestdiena, 2020. gada 9. maijs 15:34:52
+
+
+PS H:\txt\it-un-tehnika\CPP\C> date #03:22:12 - Assignment Operators<br />
+
+sestdiena, 2020. gada 9. maijs 15:36:12
+
+
+PS H:\txt\it-un-tehnika\CPP\C> mv IncrementAndDecrementOperators.c IncrementAndDecrementAssignment.c
+PS H:\txt\it-un-tehnika\CPP\C> mv IncrementAndDecrementAssignment.c IncrementAndDecrementOperators.c
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementAssignment.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date #03:27:23 - Operator Precedence<br />
+
+sestdiena, 2020. gada 9. maijs 15:51:59
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc OperatorPrecedence.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc OperatorPrecedence.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date  03:32:27 - Strongly Types vs Loosely Typed Languages
+>> TerminatingError(Get-Date): "A positional parameter cannot be found that accepts argument '-'."
+Get-Date : A positional parameter cannot be found that accepts argument '-'.
+At line:1 char:1
++ date  03:32:27 - Strongly Types vs Loosely Typed Languages
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-Date], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.GetDateCommand
+Get-Date : A positional parameter cannot be found that accepts argument '-'.
+At line:1 char:1
++ date  03:32:27 - Strongly Types vs Loosely Typed Languages
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-Date], ParameterBindingException
+    + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.GetDateCommand
+
+PS H:\txt\it-un-tehnika\CPP\C> date  #03:32:27 - Strongly Types vs Loosely Typed Languages
+
+sestdiena, 2020. gada 9. maijs 16:05:43
+
+
+PS H:\txt\it-un-tehnika\CPP\C> #teory
+PS H:\txt\it-un-tehnika\CPP\C> #teory 03:32:27 - Strongly Types vs Loosely Typed Languages
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "03:22:12 - Assignment Operators 03:27:23 - Operator Precedence eory 03:32:27 - Strongly Types vs Loosely Typed Languages"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> date # 03:43:09 - Implicit Type Promotion
+
+sestdiena, 2020. gada 9. maijs 16:26:21
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc ImplicitTypePromotion.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+50.000000
+PS H:\txt\it-un-tehnika\CPP\C> date # 03:48:21 - How to Use the Type Cast Operator
+
+sestdiena, 2020. gada 9. maijs 16:32:32
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+8.500000
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+8.5000008.500000
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> cls
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+----------------------------------------------------
+double halfPizza=slice/2.0 = 8.500000
+----------------------------------------------------
+double halfPizza1=slice/(double)people = 8.500000
+----------------------------------------------------
+double halfPizza1=(double)(slice)/people = 8.500000
+----------------------------------------------------
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+double halfPizza=slice/2.0 = 8.500000
+-------
+double halfPizza1=slice/(double)people = 8.500000
+--------
+double halfPizza1=(double)(slice)/people = 8.500000
+----------------------------------------------------
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+double c=25/2*2 = 24.000000double d=25/2*2.00 = 24.000000double c=25/2.0*2 = 25.000000
+PS H:\txt\it-un-tehnika\CPP\C> gcc typeCasting.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+sestdiena, 2020. gada 9. maijs 16:55:32
+
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "# 03:43:09 - Implicit Type Promotion"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> git pull
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> date Stop-Transcript
+>> TerminatingError(Get-Date): "Cannot bind parameter 'Date'. Cannot convert value "Stop-Transcript" to type "System.DateTime". Error: "The string was not recognized as a valid DateTime. There is an unknown word starting at index 0.""
+Get-Date : Cannot bind parameter 'Date'. Cannot convert value "Stop-Transcript" to type "System.DateTime". Error: "The s
+tring was not recognized as a valid DateTime. There is an unknown word starting at index 0."
+At line:1 char:6
++ date Stop-Transcript
++      ~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-Date], ParameterBindingException
+    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.GetDateCommand
+Get-Date : Cannot bind parameter 'Date'. Cannot convert value "Stop-Transcript" to type "System.DateTime". Error: "The string was not recognized as a valid D
+ateTime. There is an unknown word starting at index 0."
+At line:1 char:6
++ date Stop-Transcript
++      ~~~~~~~~~~~~~~~
+    + CategoryInfo          : InvalidArgument: (:) [Get-Date], ParameterBindingException
+    + FullyQualifiedErrorId : CannotConvertArgumentNoMessage,Microsoft.PowerShell.Commands.GetDateCommand
+
+PS H:\txt\it-un-tehnika\CPP\C> date #Stop-Transcript
+
+sestdiena, 2020. gada 9. maijs 17:06:11
+
+
+PS H:\txt\it-un-tehnika\CPP\C> Stop-Transcript
+**********************
+Windows PowerShell transcript end
+End time: 20200509170614
+**********************

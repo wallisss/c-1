@@ -1,0 +1,170 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200509081336
+Username: LEV-110\Man
+RunAs User: LEV-110\Man
+Configuration Name: 
+Machine: LEV-110 (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 1160
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is H:\txt\it-un-tehnika\CPP\C\TEMPs\PowerShell_transcript.LEV-110.v3KyGXde.20200509081336.txt
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+sestdiena, 2020. gada 9. maijs 08:13:39
+
+
+PS H:\txt\it-un-tehnika\CPP\C> #02:50:49 - Variables<br />
+PS H:\txt\it-un-tehnika\CPP\C> date #03:01:15 - Arithmetic Operators<br />
+
+sestdiena, 2020. gada 9. maijs 08:17:18
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc AritmeticOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+sestdiena, 2020. gada 9. maijs 08:42:23
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc AritmeticOperatorsModuls.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+piceOfPizza 5 \
+PS H:\txt\it-un-tehnika\CPP\C> gcc AritmeticOperatorsModuls.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+piceOfPizza 5
+PS H:\txt\it-un-tehnika\CPP\C> gcc AritmeticOperatorsModuls.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc AritmeticOperatorsModuls.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date # 03:11:48 - Unary Plus and Minus
+
+sestdiena, 2020. gada 9. maijs 08:58:11
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc UnaryPlusMinus.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc UnaryPlusMinus.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc UnaryPlusMinus.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc UnaryPlusMinus.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date # 03:16:37 - Increment and Decrement Operators
+
+sestdiena, 2020. gada 9. maijs 09:13:29
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IncrementAndDecrementOperators.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date
+
+sestdiena, 2020. gada 9. maijs 09:43:21
+
+
+PS H:\txt\it-un-tehnika\CPP\C> date #pusdienas
+
+sestdiena, 2020. gada 9. maijs 10:25:53
+
+
+PS H:\txt\it-un-tehnika\CPP\C> get-allias
+get-allias : The term 'get-allias' is not recognized as the name of a cmdlet, function, script file, or operable program
+. Check the spelling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ get-allias
++ ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (get-allias:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+get-allias : The term 'get-allias' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or
+if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ get-allias
++ ~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (get-allias:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS H:\txt\it-un-tehnika\CPP\C> lls
+**********************
+Windows PowerShell transcript end
+End time: 20200509102628
+**********************
