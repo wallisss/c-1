@@ -1,0 +1,226 @@
+﻿**********************
+Windows PowerShell transcript start
+Start time: 20200511123754
+Username: LEV-110\Man
+RunAs User: LEV-110\Man
+Configuration Name: 
+Machine: LEV-110 (Microsoft Windows NT 10.0.18363.0)
+Host Application: C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+Process ID: 1176
+PSVersion: 5.1.18362.752
+PSEdition: Desktop
+PSCompatibleVersions: 1.0, 2.0, 3.0, 4.0, 5.0, 5.1.18362.752
+BuildVersion: 10.0.18362.752
+CLRVersion: 4.0.30319.42000
+WSManStackVersion: 3.0
+PSRemotingProtocolVersion: 2.3
+SerializationVersion: 1.1.0.1
+**********************
+Transcript started, output file is H:\txt\it-un-tehnika\CPP\C\TEMPs\PowerShell_transcript.LEV-110.xgBLWbmX.20200511123754.txt
+PS H:\txt\it-un-tehnika\CPP\C> cls
+PS H:\txt\it-un-tehnika\CPP\C> date # 04:15:01 - Intro to Logi
+
+pirmdiena, 2020. gada 11. maijs 12:39:08
+
+
+PS H:\txt\it-un-tehnika\CPP\C> # teory
+PS H:\txt\it-un-tehnika\CPP\C> # theory
+PS H:\txt\it-un-tehnika\CPP\C> # 04:22:38 - If Statement
+PS H:\txt\it-un-tehnika\CPP\C> # first theory
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+Welcom to my pizza APP
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+Ops
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementWithBool.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> # done
+PS H:\txt\it-un-tehnika\CPP\C> ##### Shift+Alt+F align code VSC
+PS H:\txt\it-un-tehnika\CPP\C> #04:38:15 - Good Coding Practices
+PS H:\txt\it-un-tehnika\CPP\C> #show examples
+PS H:\txt\it-un-tehnika\CPP\C> date # 04:45:10 - Relational Operators
+
+pirmdiena, 2020. gada 11. maijs 13:25:03
+
+
+PS H:\txt\it-un-tehnika\CPP\C> #theory
+PS H:\txt\it-un-tehnika\CPP\C> date # 04:53:52 - If Statement Guessing Game
+
+pirmdiena, 2020. gada 11. maijs 13:34:27
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+Guess a number 0-5
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+Guess a number 0-5
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+Guess a number 0-5
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+Guess a number 0-5
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date # done
+
+pirmdiena, 2020. gada 11. maijs 13:56:55
+
+
+PS H:\txt\it-un-tehnika\CPP\C> # 05:05:27 - If-Else Statement
+PS H:\txt\it-un-tehnika\CPP\C> gcc If-ElseStatement.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> date # 05:10:11 - Logical Operators
+
+pirmdiena, 2020. gada 11. maijs 14:05:15
+
+
+PS H:\txt\it-un-tehnika\CPP\C> #theory
+PS H:\txt\it-un-tehnika\CPP\C> # 05:18:04 - Evaluating Complex Conditionals
+PS H:\txt\it-un-tehnika\CPP\C> #theory
+PS H:\txt\it-un-tehnika\CPP\C> # done
+PS H:\txt\it-un-tehnika\CPP\C> DATE # 05:27:25 - Short Circuit Evaluatio
+
+pirmdiena, 2020. gada 11. maijs 16:24:37
+
+
+PS H:\txt\it-un-tehnika\CPP\C> #  05:35:08 - Logical Operator Precedence
+PS H:\txt\it-un-tehnika\CPP\C> #theory
+PS H:\txt\it-un-tehnika\CPP\C> date # 05:39:58 - Else-If Statement
+
+pirmdiena, 2020. gada 11. maijs 16:33:59
+
+
+PS H:\txt\it-un-tehnika\CPP\C> # theory
+PS H:\txt\it-un-tehnika\CPP\C> gcc Else-IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> cls
+PS H:\txt\it-un-tehnika\CPP\C> date # 05:44:45 - How to Use the Else-If Statement
+
+pirmdiena, 2020. gada 11. maijs 16:40:26
+
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Else-IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+Choase a menu option 1-4
+1.add a patient
+2.View a patient
+3.Search patients
+4.exit
+1
+1.add a patient
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+4.exit
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+
+PS H:\txt\it-un-tehnika\CPP\C> gcc Else-IfStatementGuessingGame.c
+
+PS H:\txt\it-un-tehnika\CPP\C> ./a
+Incorrect input
+PS H:\txt\it-un-tehnika\CPP\C> date # 05:51:16 - Multiple-If Vs Else-If
+
+pirmdiena, 2020. gada 11. maijs 16:53:33
+
+
+PS H:\txt\it-un-tehnika\CPP\C> #theory
+PS H:\txt\it-un-tehnika\CPP\C> #*
+PS H:\txt\it-un-tehnika\CPP\C> /#
+/# : The term '/#' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spel
+ling of the name, or if a path was included, verify that the path is correct and try again.
+At line:1 char:1
++ /#
++ ~~
+    + CategoryInfo          : ObjectNotFound: (/#:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+/# : The term '/#' is not recognized as the name of a cmdlet, function, script file, or operable program. Check the spelling of the name, or if a path was in
+cluded, verify that the path is correct and try again.
+At line:1 char:1
++ /#
++ ~~
+    + CategoryInfo          : ObjectNotFound: (/#:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+
+PS H:\txt\it-un-tehnika\CPP\C> git add .
+
+PS H:\txt\it-un-tehnika\CPP\C> git commit -m "05:44:45 - How to Use the Else-If Statement"
+
+PS H:\txt\it-un-tehnika\CPP\C> git push
+
+PS H:\txt\it-un-tehnika\CPP\C> Stop-Transcript #05:51:16 - Multiple-If Vs Else-If
+**********************
+Windows PowerShell transcript end
+End time: 20200511170037
+**********************
