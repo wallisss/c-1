@@ -3,10 +3,10 @@ C Programming Crash Course
 c> Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\"
 Transcript started, output file is H:\txt\it-un-tehnika\CPP\LogFiles\PowerShell_transcript.LEV-110.pcDZIL2Q.20200914104605.txt
 c> Stop-Transcript
+
 1:13 - Intro
 7:15 - Linux
 17:20 - Basics - Input and Output
-gcc 1.3-basic-io.c  // gcc -o testak 1.3-basic-io.c >>> ./1.3-basic-io.c
 33:09 - Variables and Data Types
 49:32 - Operators
 1:03:13 - Logic (If, Switch, Ternary)
@@ -19,3 +19,5 @@ gcc 1.3-basic-io.c  // gcc -o testak 1.3-basic-io.c >>> ./1.3-basic-io.c
 2:25:17 - Intro to Structs
 2:34:07 - Intro to Memory Management
 2:51:16 - Conclusion
+
+gcc 1.3-basic-io.c  // gcc -o testak 1.3-basic-io.c >>> ./testak.exe
