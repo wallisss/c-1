@@ -1,0 +1,18 @@
+linux ls -l ar tiesībām
+ls .. list of parent directory
+ls -a ...
+ls -la long and .   .. 
+ls -la >> output.txt >>> make file with dir
+cd change directory cd.. up 1 directory
+cd/Users/Celab/Desktop
+cd ~ home directory
+cd ../../ 2 dir up
+cd ../../Download >> Download dir
+touch filename.c  >>> create filename.c
+mv filename.c .. >>move tu parent
+mkdir awesom >>mace awesom directory
+rm -r awesom >>delete directory
+mkdir fol1 fol2 fol3 >>make directory fol1 fol2 fol3
+awesom caleb$ echo "Hello World" > output  >>>> create output
+awesom caleb$ cat output >>show output
+awesom caleb$ echo "Hello---World" >> output >>>> upend file
