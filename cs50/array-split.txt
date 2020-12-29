@@ -1,0 +1,1 @@
+Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\cs50"

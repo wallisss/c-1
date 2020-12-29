@@ -13,7 +13,7 @@ int main (void) {
 
 		// Lowercaser!!
 		if (s[i] >= 'A' && s[i] <= 'Z') 
-			s[i] += ('a' - 'A');
+			s[i] =s[i]+ ('a' - 'A');
 
 		// Decrypt: switch 13 characters up or down the alphabet
 		if (s[i] >= 'a' && s[i] <= 'z') {
