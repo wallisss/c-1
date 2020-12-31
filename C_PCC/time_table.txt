@@ -2,7 +2,7 @@
 C Programming Crash Course
 
 Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\" 
-
+Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\cs50"
 Transcript started, output file is H:\txt\it-un-tehnika\CPP\LogFiles\PowerShell_transcript.LEV-110.pcDZIL2Q.20200914104605.txt
 c> Stop-Transcript
 

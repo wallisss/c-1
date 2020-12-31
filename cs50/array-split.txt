@@ -1,1 +1,28 @@
 Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\cs50"
+
+1. Input the elements of an array C (which is to be biparted).
+
+2. Initialize the index variable i and j with 0.
+
+3. Assign the value at jth index of array C to ith index of array A and the value at (j+1)th index of array C to ith index of array B.
+
+4. Increment i by 1 and j by 2.
+
+5. Repeat step 3-4 until j<(size of the composite array), Here 8.
+
+
+1.ievadīt masīvu
+2.masīva garums
+3.dalīts uz pusēm
+4.šķirot kreisās puses elementus
+5.šķirot labās puses elementus
+6.savienot izšķirotās puses
+
+for (i=0; i<N ; i++)
+{
+	if(i<pos)	// arr/2(or rnd position)
+		arr1[k1++]=a[i];
+	else
+		arr2[k2++]=a[i];
+}
+

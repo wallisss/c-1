@@ -11,7 +11,7 @@ int main()
         printf("Nr %d: ",i+1);
         scanf("%d",&a[i]);
     }
-    printf("Enter the position to split the array into Two\n");
+    printf("Enter the position to split the  array into Two\n");
     scanf("%d",&pos);
 
     for(i=0;i<N;i++)

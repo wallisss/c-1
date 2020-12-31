@@ -52,6 +52,8 @@
 
 #include "cs50.h"
 
+
+
 // Disable warnings from some compilers about the way we use variadic arguments 
 #pragma GCC diagnostic push
 #pragma GCC diagnostic ignored "-Wformat-security"
