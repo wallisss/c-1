@@ -1,6 +1,7 @@
 
 C Programming Crash Course
 
+On Windows Shift + Alt + F. arange code
 Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\" 
 Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\cs50"
 Transcript started, output file is H:\txt\it-un-tehnika\CPP\LogFiles\PowerShell_transcript.LEV-110.pcDZIL2Q.20200914104605.txt
@@ -14,7 +15,7 @@ c> Stop-Transcript
 1:03:13 - Logic (If, Switch, Ternary)
 1:19:35 - Loops (for, While, Do While)
 1:31:50 - Arrays
-1:41:44 - Strings
+1:41:44 - Strings 4.2strings.c
 1:50:00 - Functions
 2:07:58 - Creating a Function Library
 2:15:55 - Intro to Pointers

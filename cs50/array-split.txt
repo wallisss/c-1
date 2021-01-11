@@ -26,3 +26,31 @@ for (i=0; i<N ; i++)
 		arr2[k2++]=a[i];
 }
 
+api.cs50.ioOperational
+cdn.cs50.netOperational
+certificates.cs50.ioOperational
+check50Operational
+cli50Operational
+cs50.edx.orgOperational
+cs50.harvard.eduOperational
+cs50.readthedocs.ioOperational
+cs50.lyOperational
+cs50.meOperational
+cs50.yale.eduOperational
+forms.cs50.ioOperational
+harvard.cs50.meOperational
+help50Operational
+help.cs50.netOperational
+id.cs50.ioOperational
+ide.cs50.ioOperational
+lab.cs50.ioOperational
+man.cs50.ioOperational
+mirror.cs50.netOperational
+render.cs50.ioOperational
+render50Operational
+sandbox.cs50.ioOperational
+style50Operational
+submit.cs50.ioOperational
+submit50Major Outage
+vault.cs50.ioOperational
+video.cs50.io
