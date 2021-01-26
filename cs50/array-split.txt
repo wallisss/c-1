@@ -1,4 +1,9 @@
 Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\cs50"
+On Windows Shift + Alt + F. arange code
+Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\" 
+Start-Transcript -OutputDirectory "H:\txt\it-un-tehnika\CPP\LogFiles\cs50"
+Transcript started, output file is H:\txt\it-un-tehnika\CPP\LogFiles\PowerShell_transcript.LEV-110.pcDZIL2Q.20200914104605.txt
+Stop-Transcript
 
 1. Input the elements of an array C (which is to be biparted).
 

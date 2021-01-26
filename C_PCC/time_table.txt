@@ -24,3 +24,6 @@ Stop-Transcript
 2:51:16 - Conclusion
 
 gcc 1.3-basic-io.c  // gcc -o testak 1.3-basic-io.c >>> ./testak.exe
+
+codecademy
+https://www.codecademy.com/pro/membership
