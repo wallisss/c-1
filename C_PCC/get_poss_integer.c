@@ -1,6 +1,6 @@
 #include<stdio.h>
-int getin(){
-    int b;
+int getin(void){    //void mean nothing go in function int mean return int
+    int b;  //int n exsist inside curlbracket only(outside vek )
     do{
     printf("Input number: ");
     scanf("%d", &b);

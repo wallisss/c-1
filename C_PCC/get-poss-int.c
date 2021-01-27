@@ -1,6 +1,6 @@
 #include<stdio.h>
 
-int get_int(){
+int get_int(void){
     int b;
     do{
     printf("Input number: ");
@@ -9,6 +9,7 @@ int get_int(){
     return b;
 }
 int get_positive_int(void);
+
 int main(void){
     int i=get_int();
     printf("You input :%i\n",i);
