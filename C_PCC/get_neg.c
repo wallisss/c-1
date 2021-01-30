@@ -3,7 +3,7 @@ int getin(){
     int b=0;
     do{
     printf("Input number: ");
--1    scanf("%d", &b);
+    scanf("%d", &b);
     } while (b>=0);
     return b;
 }
